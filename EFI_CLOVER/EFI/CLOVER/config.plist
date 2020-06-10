@@ -956,11 +956,11 @@
 		<key>BiosVersion</key>
 		<string>IMP11.88Z.F000.B00.1910172120</string>
 		<key>Board-ID</key>
-		<string>Mac-7BA5B2D9E42DDD94</string>
+		<string>Mac-C02947300QX0000JC</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>D25543501CDF8YLJA</string>
+		<string>C02947300QX0000JC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -990,9 +990,9 @@
 		<key>ProductName</key>
 		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>D25QLLYHF8JC</string>
+		<string>C02ZQDYDLVCG</string>
 		<key>SmUUID</key>
-		<string>7A804573-BE42-4831-BE3B-35A97DFE48C7</string>
+		<string>6E167E28-A39C-423F-B244-20152956DD0C</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
