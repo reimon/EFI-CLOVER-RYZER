@@ -28,7 +28,7 @@
 
 #### Not Working
 
-- Intel wifi card
+- Qualcomm Wireless QCA61x4A 2x2
 
 #### Catalina 10.15.5
 
