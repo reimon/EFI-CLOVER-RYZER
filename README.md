@@ -36,4 +36,4 @@
 
 #### Catalina 10.15
 
-## -[EFI_CLOVER](https://github.com/reimon/EFI-CLOVER-RYZER/tree/master/EFI_CLOVER)
+- [EFI_CLOVER](https://github.com/reimon/EFI-CLOVER-RYZER/tree/master/EFI_CLOVER)
